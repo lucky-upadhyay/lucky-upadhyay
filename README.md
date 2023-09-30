@@ -16,7 +16,6 @@
 <div align='center'>
 <img src='https://media.giphy.com/media/TvLuZ00OIADoQ/giphy.gif' width="220"> &nbsp; &nbsp;  
 <img src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif' width="165"> &nbsp; &nbsp;
-<img src="https://github.com/lucky-upadhyay" />
 </div>
 
 <!-- <table cellpadding="0%" cellspacing="0%" border="0" align="center">
