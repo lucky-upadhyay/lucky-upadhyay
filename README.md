@@ -16,8 +16,9 @@
 <div align='center'>
 <img src='https://media.giphy.com/media/TvLuZ00OIADoQ/giphy.gif' width="220"> &nbsp; &nbsp;  
     
- 
-<img align='justify' src='/data-science-orientation.png ' title="Badge" width="220">
+<a href=”https://www.credly.com/earner/earned/badge/d6e546ff-8ebd-4bc4-bf3e-6a7dab97cc11”>
+    <img align='justify' src='/data-science-orientation.png ' title="Badge" width="220">
+</a>
 <img src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif' width="165"> &nbsp; &nbsp;
 </div>
 
