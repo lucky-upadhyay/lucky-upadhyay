@@ -15,12 +15,12 @@
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixv54&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6&hide_border=true" alt="language stats" title="language stats"/> -->
 <div align='center'>
 <img src='https://media.giphy.com/media/TvLuZ00OIADoQ/giphy.gif' width="220"> &nbsp; &nbsp;  
-    
-<a href=”https://www.credly.com/earner/earned/badge/d6e546ff-8ebd-4bc4-bf3e-6a7dab97cc11/”>
-    <img align='justify' src='/data-science-orientation.png ' title="Badge" width="220">
-</a>
 <img src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif' width="165"> &nbsp; &nbsp;
 </div>
+<h3 align="left">Badges:</h3>
+<p align="left"><a href="https://www.credly.com/badges/d6e546ff-8ebd-4bc4-bf3e-6a7dab97cc11/public_url" target="_blank" rel="noreferrer"> <img
+src="/data-science-orientation.png" alt="badge" width="100" height="100" /></a>
+</p>
 
 <!-- <table cellpadding="0%" cellspacing="0%" border="0" align="center">
     <tr cellpadding="0%" cellspacing="0%" border="0">
