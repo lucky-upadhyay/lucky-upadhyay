@@ -1,5 +1,4 @@
-<img align='justify' src='/
-Github_banner.png ' title="header">
+<img align='justify' src='/Github_banner.png ' title="header">
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 
 #### I'm a tech enthusiast who loves to learn about new things. Connect with me on Github.
@@ -17,7 +16,7 @@ Github_banner.png ' title="header">
 <div align='center'>
 <img src='https://media.giphy.com/media/TvLuZ00OIADoQ/giphy.gif' width="220"> &nbsp; &nbsp;  
 <img src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif' width="165"> &nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrixV54&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6&hide_border=true" alt="language stats" title="language stats"/>
+<img src="https://github.com/lucky-upadhyay" alt="language stats" title="language stats"/>
 </div>
 
 <!-- <table cellpadding="0%" cellspacing="0%" border="0" align="center">
