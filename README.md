@@ -1,6 +1,7 @@
 <img align='justify' src='/Github_banner.png ' title="header">
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 
+
 #### I'm a tech enthusiast who loves to learn about new things. Connect with me on Github.
 <!-- <br>
 <div align='center'>
