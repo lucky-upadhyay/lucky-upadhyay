@@ -21,7 +21,7 @@
 <h3 align="left">Badges:</h3>
 <p align="left">
     <a href="https://www.credly.com/badges/d6e546ff-8ebd-4bc4-bf3e-6a7dab97cc11/public_url" target="_blank" rel="noreferrer"> <img
-src="/data-science-orientation.png" alt="badge" width="100" height="100" />
+src="/data-science-orientation.png" alt="badge" width="100" height="100" /></a>
     <a href="https://www.credly.com/badges/a2100041-8146-407a-a5f7-3cf06e0d2a35/public_url" target="_blank" rel="noreferrer"> <img
 src="/tools-for-data-science-v2.png" alt="badge" width="100" height="100" /></a>
 </p>
